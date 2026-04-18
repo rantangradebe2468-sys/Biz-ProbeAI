@@ -1,0 +1,6 @@
+business_type,keywords,demand,competition
+food,"food,restaurant,takeaway,fast food,catering,coffee,snack,meal",0.92,0.75
+tech,"tech,software,app,ai,coding,startup,development,programming",0.88,0.65
+transport,"transport,taxi,delivery,courier,logistics,uber,ride",0.80,0.55
+retail,"shop,retail,store,clothing,selling,boutique,market",0.85,0.82
+services,"services,cleaning,repair,plumbing,electrician,salon,hair,beauty",0.90,0.60
